@@ -1,5 +1,7 @@
 How to run the macro:
+
 1.	Install Foxit Phantom PDF Version 9.6
+
 2.	Go to File – Preference – General and uncheck Show Start Button
  
 3.	Go to excel file and set up the folder where you will keep all PDF files to be converted:
