@@ -1,0 +1,16 @@
+How to run the macro:
+
+1.	Install Foxit Phantom PDF Version 9.6
+
+2.	Go to File – Preference – General and uncheck Show Start Button
+ 
+3.	Go to excel file and set up the folder where you will keep all PDF files to be converted:
+ 
+4.	After the PDF folder is set up, you can import files one by one by clicking on the  Import button
+ 
+5.	DONE!
+
+Few notes:
+1. Macro will run on closed PDF files only.
+2. Do not close the PDF application after the import has been started; save the excel file first if you choose so. 
+3. The same PDF file will not run twice unless it closed
