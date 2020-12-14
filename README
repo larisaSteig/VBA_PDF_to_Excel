@@ -13,3 +13,4 @@ How to run the macro:
 Few notes:
 1. Macro will run on closed PDF files only.
 2. Do not close the PDF application after the import has been started; save the excel file first if you choose so. 
+3. The same PDF file will not run twice unless it closed
